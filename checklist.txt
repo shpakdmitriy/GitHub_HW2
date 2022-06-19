@@ -1,0 +1,21 @@
+1. Description: describe the type of test.
+2. Check. This column should contain a list of checks, for example:
+2.1. The site is open and available.
+2.2. When you try to reopen the site, it opens and is available.
+2.3. All buttons on the site are clickable.
+2.4. All links on the site open.
+2.5. There are no broken links on the site.
+2.6. Check all forms on the site.
+2.7. Check the validation of all required fields.
+2.8. All required fields have an asterisk.
+2.9. Check validation for all optional fields.
+2.10. Check the main elements of the site.
+2.11. Check the operation of the menu.
+2.12. Check that the downloaded documents open correctly.
+2.13. Sending forms works correctly.
+2.14. Check what happens if you delete cookies while on the site.
+2.15. Check what happens if you delete cookies after visiting the site.
+2.16. All data in the lists in chronological order.
+3. Result. This column can only contain the status Passed or Failed.
+4. Comments. If the check status is Failed, you should leave a comment about the bug that has occurred.
+5. Attachment. If the check status is Failed, you should insert a link to a screenshot, or any other documents that can help clarify the issue.
