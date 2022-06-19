@@ -1,0 +1,5 @@
+1. Environment: Describe the environment in which the bug was found: operating system, service pack, browser name and version, chip software version, library version, etc.
+2. Precondition: Indicate what you need to do to prepare for the project testing.
+3. Steps to reproduce (STR): Write down steps to easily reproduce the situation that caused the error.
+4. Actual Result (AR): Describe the actual result.
+5. Expected Result (ER): Note the expected result. You can add a link to the specification.
